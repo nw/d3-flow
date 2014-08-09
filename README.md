@@ -1,35 +1,38 @@
 
-## d3-flow
+# d3-flow
 
 A flow control library to help manage complex animations in d3.
 
-### Overview
+[See Demo here](http://nw.github.io/d3-flow/)
+
+
+## Overview
 
 This is old code I dug up that I once again have a purpose for. It is really helpful for managing transition states. It has a middleware type system which makes it easy to abstract the functionality into reusable chunks.
 
 **Warning:** This was originally designed for D3 v2.x. It currently has some issues with D3 v3. This will be resolved soon. 
 
-### start
+## start
 
-### use
+## use
 
-### serial
+## serial
 
-### parallel
+## parallel
 
-### wait
+## wait
 
-### selection
+## selection
 
-### data
+## data
 
-### enter
+## enter
 
-### call
+## call
 
-### transition
+## transition
 
-### License
+## License
 
 The MIT License (MIT)
 
