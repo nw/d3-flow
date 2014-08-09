@@ -2,7 +2,7 @@
   "name": "d3-flow",
   "version": "0.0.1",
   "description": "Flow Control library for D3",
-  "main": "index.js",
+  "main": "lib/flow.js",
   "scripts": {
     "install": "./node_modules/.bin/webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
